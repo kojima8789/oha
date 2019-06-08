@@ -21,7 +21,7 @@ header {
     color: #fff;
     position: fixed;   /*ヘッダーを画面内に固定*/
     top: 0;   /*位置を一番上に*/
-    width: 100%;   /*幅を画面いっぱいに*/
+    width: 100%;  /* 幅を画面いっぱいに */
     z-index: 100;  /*重なった時の優先度を上に*/
 }
 
@@ -52,6 +52,5 @@ header h1 {
 }
 
 .inner span {
-    font-color: #666;
     margin-left: 10px;
 }
